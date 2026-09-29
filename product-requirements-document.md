@@ -4,6 +4,8 @@ tina version 1
 
 tina version 2
 
+tina version 3
+
 **Title:** AP Invoice Automation Agent — EDI Channel **Date:** 2026-09-28 **Owner:** AP Product Owner **Solution Category:** AI Agent
 
 * * *
