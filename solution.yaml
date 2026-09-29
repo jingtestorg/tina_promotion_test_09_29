@@ -1,0 +1,10 @@
+apiVersion: solution.sap/v1
+kind: Solution
+
+metadata:
+  name: tina-test-09-29-version-1-bc913
+  version: "1.0.0"
+  description: "AP Invoice Automation Agent - processes EDI invoices with 2/3/4-way matching and touchless posting across all SAP systems"
+
+assets:
+  - ref: ./assets/ap-invoice-automation-agent/asset.yaml
